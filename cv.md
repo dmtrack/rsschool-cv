@@ -66,3 +66,18 @@ class UserController {
 ```
 
 ---
+
+### **Courses**
+
+-   Result School
+-   August 2022 - Frontend developer
+-   October 2022 - extra React course
+-   January 2023 - TypeScript course
+-   January - March 2023 - iTransition internship
+
+---
+
+### **Languages**
+
+-   English - Upper-intermediate / Advanced
+-   Russian - native
