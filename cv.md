@@ -2,7 +2,7 @@
 
 ### Full stack developer
 
-### **Contacts:**
+### **Contacts**
 
 **Phone:** +7 922 026 4686\
 **Telegram:** [@dmtrack](https://t.me/dmtrack)\
