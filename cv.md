@@ -24,7 +24,7 @@ I wish my interest to developing, skills and continuous learning will have led m
 
 ---
 
-### **My Skills:**
+### **Skills:**
 
 -   HTML, CSS
 -   JavaScript, TypeScript
