@@ -39,7 +39,7 @@ I wish my interest to developing, skills and continuous learning will have led m
 
 ```
 class UserController {
-    registration: RequestHandler = async (req, res, next) => {
+    registration: RequestHandler = async (req, res) => {
         try {
             const errors = validationResult(req);
             if (!errors.isEmpty()) {
