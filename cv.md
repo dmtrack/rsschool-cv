@@ -31,7 +31,7 @@ I wish my interest to developing, skills and continuous learning will have led m
 -   React, Redux&Toolkit
 -   NodeJS, Express, MongoDB, PostgreSQL, FireBase, Websockets
 -   GitHub
--   Tailwind, Bootstrap, Ant Design, Materialise UI
+-   Tailwind, Bootstrap, Materialise UI
 
 ---
 
