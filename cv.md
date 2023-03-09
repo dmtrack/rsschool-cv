@@ -35,7 +35,7 @@ I wish my interest to developing, skills and continuous learning will have led m
 
 ---
 
-### **Code example:**
+### **Code example**
 
 ```
 class UserController {
